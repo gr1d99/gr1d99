@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
 
 import Header from './Header';
-import IntroContent from './IntroContent';
+import SocialMedia from './SocialMedia';
+import Skills from './Skills';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
           <Header/>
-          <IntroContent/>
+          <Skills/>
+          <SocialMedia/>
       </div>
     );
   }
