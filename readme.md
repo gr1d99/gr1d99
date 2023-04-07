@@ -47,4 +47,16 @@
 [![🔥 My Stats](https://github-readme-stats.vercel.app/api?username=gr1d99&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1d99&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 35 hrs 39 mins
+
+TypeScript       28 hrs 58 mins  ████████████████████▒░░░░   81.27 %
+JSON             1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Markdown         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Ruby             1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript       1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Text             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+```
+
 <!--END_SECTION:waka-->
