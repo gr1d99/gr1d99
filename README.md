@@ -51,10 +51,10 @@
 ```text
 Total Time: 3 hrs 59 mins
 
-TypeScript       2 hrs 49 mins   █████████████████▓░░░░░░░   70.68 %
-JavaScript       45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-JSON             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript       2 hrs 49 mins   █████████████████▓░░░░░░░   70.88 %
+JavaScript       44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+JSON             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 .env file        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
