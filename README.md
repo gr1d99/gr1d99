@@ -51,8 +51,8 @@
 ```text
 Total Time: 13 hrs 2 mins
 
-TypeScript       9 hrs 10 mins   █████████████████▓░░░░░░░   70.33 %
-JavaScript       2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+TypeScript       9 hrs 10 mins   █████████████████▓░░░░░░░   70.34 %
+JavaScript       2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
 JSON             39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 TSConfig         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 GitIgnore file   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
