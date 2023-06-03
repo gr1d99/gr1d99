@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1d99&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 13 hrs 10 mins
 
 TypeScript   12 hrs 50 mins  ████████████████████████▒   97.49 %
