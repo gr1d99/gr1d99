@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 6 mins
+Total Time: 8 hrs 26 mins
 
-TypeScript   7 hrs 9 mins    █████████████████▓░░░░░░░   70.87 %
-HTML         1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-SCSS         1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-.env file    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript       6 hrs 27 mins   ███████████████████░░░░░░   76.56 %
+SCSS             34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+C#               32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+JavaScript       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+GitIgnore file   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
