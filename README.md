@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 17 mins
+Total Time: 18 hrs 15 mins
 
-C#                        20 hrs 46 mins  ███████████████████████▒░   93.24 %
-JSON                      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Solution File             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-GitIgnore file            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-XML                       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+C#                        16 hrs 15 mins  ██████████████████████▒░░   89.02 %
+JSON                      47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Solution File             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+XML                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+GitIgnore file            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
