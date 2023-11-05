@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 15 mins
+Total Time: 13 hrs 11 mins
 
-C#                  8 hrs 28 mins   █████████████░░░░░░░░░░░░   52.12 %
-SQL                 3 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-YAML                1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Config              1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-GitIgnore file      26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+C#                  6 hrs 14 mins   ████████████░░░░░░░░░░░░░   47.36 %
+SQL                 2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+YAML                1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Config              1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+GitIgnore file      27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
