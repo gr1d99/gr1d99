@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 36 mins
+Total Time: 22 hrs 19 mins
 
-C#                     13 hrs 20 mins  █████████████░░░░░░░░░░░░   52.08 %
-SQL                    3 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-YAML                   3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-TypeScript             1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Docker                 1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+C#                     11 hrs 3 mins   ████████████▒░░░░░░░░░░░░   49.55 %
+SQL                    3 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+YAML                   2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+TypeScript             1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Docker                 1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
