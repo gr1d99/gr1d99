@@ -3,6 +3,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Gideon"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=gr1d99&style=flat-square&color=blue" alt=""/>
+    <a href="https://wakatime.com/@c4242144-9180-40c4-ae9a-580845a43e6a"><img src="https://wakatime.com/badge/user/c4242144-9180-40c4-ae9a-580845a43e6a.svg" alt="Total time coded since Jun 21 2021" /></a>
     <article>
         <h1>Hi there! 👋, I'm Gideon</h1>
     </article>
