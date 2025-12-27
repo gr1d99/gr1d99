@@ -50,11 +50,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 0 secs
 
-YAML         10 mins         ██████████████▒░░░░░░░░░░   57.44 %
-TypeScript   5 mins          ████████░░░░░░░░░░░░░░░░░   32.02 %
-JavaScript   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
