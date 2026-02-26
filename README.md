@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 41 mins
+Total Time: 5 hrs 48 mins
 
-C#                     4 hrs 27 mins         ███████████▓░░░░░░░░░░░░░   46.03 %
-TypeScript             1 hr 5 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-YAML                   38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-SCSS                   34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Config                 34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+C#                     3 hrs 13 mins         ██████████████░░░░░░░░░░░   55.58 %
+Config                 1 hr 15 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+JSON                   21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+SQL                    14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+MsBuild targets file   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
