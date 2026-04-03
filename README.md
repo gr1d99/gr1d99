@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 42 mins
+Total Time: 15 hrs 6 mins
 
-Python             4 hrs 34 mins         ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-JavaScript         3 hrs 27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-TypeScript         2 hrs 16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Text               1 hr 37 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-C#                 1 hr 35 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+C#                  6 hrs 19 mins         ██████████▒░░░░░░░░░░░░░░   41.51 %
+Docker              2 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+YAML                1 hr 46 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Text                1 hr 31 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+TypeScript          53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
