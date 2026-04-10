@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 4 mins
+Total Time: 18 hrs 41 mins
 
-C#                  9 hrs 56 mins         █████████████▓░░░░░░░░░░░   55.03 %
-Docker              2 hrs 56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-YAML                2 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-JSON                1 hr 18 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Markdown            32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+C#               8 hrs 41 mins         ███████████▓░░░░░░░░░░░░░   46.44 %
+YAML             2 hrs 20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Docker           2 hrs 19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Makefile         2 hrs 5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+JSON             1 hr 14 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
