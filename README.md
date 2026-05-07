@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 21 mins
+Total Time: 25 hrs 59 mins
 
-C#                  7 hrs 13 mins         ████████░░░░░░░░░░░░░░░░░   32.28 %
-Python              6 hrs 58 mins         ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-C++                 3 hrs 1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-TypeScript          1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-CMake               57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Python              7 hrs 42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+C#                  7 hrs 3 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+C++                 5 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+TypeScript          2 hrs 4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+CMake               1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 ```
 
 <!--END_SECTION:waka-->
