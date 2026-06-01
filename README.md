@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 21 mins
+Total Time: 4 hrs 3 mins
 
-YAML             2 hrs 13 mins         ████████████████▓░░░░░░░░   66.14 %
-textmate         17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-TypeScript       14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-JSON             13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-INI              11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+YAML             2 hrs 14 mins         █████████████▓░░░░░░░░░░░   55.27 %
+TypeScript       53 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+textmate         17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+JSON             13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+INI              11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->
