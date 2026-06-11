@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 23 mins
+Total Time: 6 hrs 32 mins
 
-Python           7 hrs 32 mins         ██████████████████████▒░░   89.89 %
-textmate         40 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Bash             5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-TypeScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-.env file        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python           5 hrs 45 mins         ██████████████████████░░░   88.20 %
+textmate         30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Bash             12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+TypeScript       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
